@@ -1,0 +1,115 @@
+#map {
+  position: relative;
+}
+
+#iann_globe{
+}
+
+.geo-globe {
+        fill: rgba(0,0,0,0.1);
+      }
+
+      .geo-path {
+        fill: #132A50; 
+        stroke: #FFFFFF;
+        stroke-width: 0.2;
+      }
+
+        .geo-path:hover {
+          fill: #3B5998;
+        }
+
+      .geo-node {
+        stroke-width: 0.0;
+        stroke: rgba(255, 0, 10, 0.66); 
+        fill: rgba(255, 0, 10, 0.66); 
+          
+        cursor: pointer;                
+      }
+
+        .geo-node:hover {
+          stroke: #a00;
+          fill: #a00;
+        }
+
+
+
+
+
+
+
+svg {
+  pointer-events: all;
+ /* background: #a5adb0;*/
+  margin: left;
+  display: block;
+
+}
+
+.zone {
+  stroke-width: .5px;
+  stroke-linejoin: round;
+  cursor: pointer;
+}
+
+.marker-blue {
+    background-image: url("/experiment/world-connections/assets/img/marker-blue.png");
+}
+
+nav ul{height:300px; width:18%;}
+nav ul{overflow:hidden; overflow-y:scroll;}
+
+.zoneTooltip {
+  margin-right: auto;
+  display: none;
+
+  position: absolute;
+  display: none;
+  pointer-events: none;
+  background: #fff;
+  padding: 3px;
+  text-align: left;
+  border: solid #ccc 1px;
+  color: #666;
+  font-size: 12px;
+  font-family: sans-serif;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+ overflow-y:scroll;
+  height:300px;
+}
+
+.zoneTooltipList{
+  overflow:hidden;
+  overflow-y:scroll;
+  height:300px;
+}
+
+.infoLabel {   
+  position: absolute;
+  text-align: left;
+  display: none;
+  border: solid #ccc 1px;
+  color: #666;
+  background: #FFFFFF;    
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0px 0px 3px #66C2FF;
+  -moz-box-shadow: 0px 0px 3px #66C2FF;
+  box-shadow: 0px 0px 3px #66C2FF;
+  padding: 2px;      
+  font-size: 12px;
+  font-family: sans-serif; 
+  pointer-events: none;       
+}
+
+.infoLabel span {
+  margin: 0px 5px;
+}
+
+
+.focused {
+  fill: #FF7519;
+}

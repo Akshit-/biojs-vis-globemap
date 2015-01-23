@@ -1,0 +1,2701 @@
+[{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2436849, 34.0522342]
+    },
+    "properties": {
+        "name": "Los Angeles, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.117778, 52.091667]
+    },
+    "properties": {
+        "name": "Utrecht, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4672517, 51.2622513]
+    },
+    "properties": {
+        "name": "Surrey, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [35.005833, -15.786111]
+    },
+    "properties": {
+        "name": "Blantyre, Malawi"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.2444909, 41.1188827]
+    },
+    "properties": {
+        "name": "Tarragona, Spain"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.5975507, 47.5674422]
+    },
+    "properties": {
+        "name": "Basel, Switzerland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6878851, 49.3490898]
+    },
+    "properties": {
+        "name": "Leimen, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.297355, 52.6308859]
+    },
+    "properties": {
+        "name": "Norwich, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.121817, 52.205337]
+    },
+    "properties": {
+        "name": "Cambridge, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.089344, 51.535638]
+    },
+    "properties": {
+        "name": "Hixton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.6335971, 46.5199617]
+    },
+    "properties": {
+        "name": "Lausanne, Switzerland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.753428, 9.748917]
+    },
+    "properties": {
+        "name": "San JosÃ©, Costa Rica"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.121817, 52.205337]
+    },
+    "properties": {
+        "name": "Cambridge, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.4970097, 52.1601144]
+    },
+    "properties": {
+        "name": "Leiden, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.1422961, 46.1983922]
+    },
+    "properties": {
+        "name": "Geneva, Switzerland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6121893, 39.2903848]
+    },
+    "properties": {
+        "name": "Baltimore, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.2712717, 32.8328112]
+    },
+    "properties": {
+        "name": "La Jolla, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.5975507, 47.5674422]
+    },
+    "properties": {
+        "name": "Basel, Switzerland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.1455683, 46.8016663]
+    },
+    "properties": {
+        "name": "Fribourg, Switzerland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0059413, 40.7127837]
+    },
+    "properties": {
+        "name": "New York, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.089344, 51.535638]
+    },
+    "properties": {
+        "name": "Hixton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.0991466, 54.0924406]
+    },
+    "properties": {
+        "name": "Rostock, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco , United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.6335971, 46.5199617]
+    },
+    "properties": {
+        "name": "Lausanne, Switzerland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3792365, 28.5383355]
+    },
+    "properties": {
+        "name": "Orlando, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3792365, 28.5383355]
+    },
+    "properties": {
+        "name": "Orlando, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3792365, 28.5383355]
+    },
+    "properties": {
+        "name": "Orlando, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.297355, 52.6308859]
+    },
+    "properties": {
+        "name": "Norwich, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3792365, 28.5383355]
+    },
+    "properties": {
+        "name": "Orlando, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.7820674, 39.5500507]
+    },
+    "properties": {
+        "name": "Colorado, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.7820674, 39.5500507]
+    },
+    "properties": {
+        "name": "Colorado, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-127.6476206, 53.7266683]
+    },
+    "properties": {
+        "name": "British Columbia, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9207392, 35.9606384]
+    },
+    "properties": {
+        "name": "KNOXVILLE, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.7758296, 51.2277409]
+    },
+    "properties": {
+        "name": "DÃ¼sseldorf, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522219, 48.856614]
+    },
+    "properties": {
+        "name": "Paris, France"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [31.2357116, 30.0444196]
+    },
+    "properties": {
+        "name": "Cairo, Egypt"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.9602786, 50.937531]
+    },
+    "properties": {
+        "name": "Cologne, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.9602786, 50.937531]
+    },
+    "properties": {
+        "name": "Cologne, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [135.5021651, 34.6937378]
+    },
+    "properties": {
+        "name": "Osaka, Japan"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.5908455, 45.5142898]
+    },
+    "properties": {
+        "name": "Portoroz, Slovenia"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-120.138889, 39.172222]
+    },
+    "properties": {
+        "name": "Tahoe City, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5539925, 45.5086699]
+    },
+    "properties": {
+        "name": "Montreal, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.8700901, 34.5199402]
+    },
+    "properties": {
+        "name": "New Mexico, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6121893, 39.2903848]
+    },
+    "properties": {
+        "name": "Baltimore, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6121893, 39.2903848]
+    },
+    "properties": {
+        "name": "Baltimore, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-157.8583333, 21.3069444]
+    },
+    "properties": {
+        "name": "Honolulu, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [39.283333, -6.8]
+    },
+    "properties": {
+        "name": "Dar es Salaam, Tanzania"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [9.1859243, 45.4654219]
+    },
+    "properties": {
+        "name": "Milan, Italy"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [9.1859243, 45.4654219]
+    },
+    "properties": {
+        "name": "Milan, Italy"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.297355, 52.6308859]
+    },
+    "properties": {
+        "name": "Norwich, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.880769, 50.719164]
+    },
+    "properties": {
+        "name": "Bournemouth, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9207392, 35.9606384]
+    },
+    "properties": {
+        "name": "Knoxville, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [94.9119621, 27.4728327]
+    },
+    "properties": {
+        "name": "Dibrugarh, India"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.4660395, 49.4874592]
+    },
+    "properties": {
+        "name": "Mannheim, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [55.1817407, 25.0476643]
+    },
+    "properties": {
+        "name": "Dubai, United Arab Emirates"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-74.6672226, 40.3572976]
+    },
+    "properties": {
+        "name": "Princeton, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.4240553, -33.9248685]
+    },
+    "properties": {
+        "name": "Cape Town, South Africa"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [80.3318736, 26.449923]
+    },
+    "properties": {
+        "name": "Kanpur, India"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.4240553, -33.9248685]
+    },
+    "properties": {
+        "name": "Cape Town, South Africa"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [101.686855, 3.139003]
+    },
+    "properties": {
+        "name": "Kuala Lumpur, Malaysia"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [100.5241235, 13.7278956]
+    },
+    "properties": {
+        "name": "Bangkok, Thailand"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.9400054, 33.4255104]
+    },
+    "properties": {
+        "name": "Tempe, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0368707, 38.9071923]
+    },
+    "properties": {
+        "name": "Washington, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.948056, 39.604167]
+    },
+    "properties": {
+        "name": "Keystone, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-43.5124556, -20.3800546]
+    },
+    "properties": {
+        "name": "Ouro Preto, Brazil"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1097335, 42.3736158]
+    },
+    "properties": {
+        "name": "Cambridge, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1097335, 42.3736158]
+    },
+    "properties": {
+        "name": "Cambridge, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1097335, 42.3736158]
+    },
+    "properties": {
+        "name": "Cambridge, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-120.138889, 39.172222]
+    },
+    "properties": {
+        "name": "Tahoe City, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1097335, 42.3736158]
+    },
+    "properties": {
+        "name": "Cambridge, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1097335, 42.3736158]
+    },
+    "properties": {
+        "name": "Cambridge, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7562317, 42.6525793]
+    },
+    "properties": {
+        "name": "Albany, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522219, 48.856614]
+    },
+    "properties": {
+        "name": "Paris, France"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.8951679, 52.3702157]
+    },
+    "properties": {
+        "name": "Amsterdam, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1097335, 42.3736158]
+    },
+    "properties": {
+        "name": "Cambridge, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585316, 31.298886]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.2472526, 49.9928617]
+    },
+    "properties": {
+        "name": "Mainz, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-8.008889, 31.63]
+    },
+    "properties": {
+        "name": "Marrakech, Morocco"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3570028, 38.9586307]
+    },
+    "properties": {
+        "name": "Reston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3570028, 38.9586307]
+    },
+    "properties": {
+        "name": "Reston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3570028, 38.9586307]
+    },
+    "properties": {
+        "name": "Reston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3570028, 38.9586307]
+    },
+    "properties": {
+        "name": "Reston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3570028, 38.9586307]
+    },
+    "properties": {
+        "name": "Reston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3570028, 38.9586307]
+    },
+    "properties": {
+        "name": "Reston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.0944238, 42.6506606]
+    },
+    "properties": {
+        "name": "Dubrovnik, Croatia"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-8.008889, 31.63]
+    },
+    "properties": {
+        "name": "Marrakech, Morocco"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-8.008889, 31.63]
+    },
+    "properties": {
+        "name": "Marrakech, Morocco"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-116.5765035, 53.9332706]
+    },
+    "properties": {
+        "name": "Alberta, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0368707, 38.9071923]
+    },
+    "properties": {
+        "name": "Washington, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.9573563, 50.1163196]
+    },
+    "properties": {
+        "name": "Whistler, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-116.5765035, 53.9332706]
+    },
+    "properties": {
+        "name": "Alberta, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-116.5765035, 53.9332706]
+    },
+    "properties": {
+        "name": "Alberta, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-106.8317158, 40.4849769]
+    },
+    "properties": {
+        "name": "Steamboat Springs, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.805886, 41.2371851]
+    },
+    "properties": {
+        "name": "Sitges, Spain"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2577263, 51.7520209]
+    },
+    "properties": {
+        "name": "Oxford, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.297355, 52.6308859]
+    },
+    "properties": {
+        "name": "Norwich, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.040235, 47.497912]
+    },
+    "properties": {
+        "name": "Budapest, Hungary"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-95.3693896, 29.7601927]
+    },
+    "properties": {
+        "name": "Houston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.1734035, 41.3850639]
+    },
+    "properties": {
+        "name": "Barcelona, Spain"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [31.2088526, 30.0130557]
+    },
+    "properties": {
+        "name": "Giza, Egypt"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [10.451526, 51.165691]
+    },
+    "properties": {
+        "name": "GÃ¶ttingen, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.121817, 52.205337]
+    },
+    "properties": {
+        "name": "Cambridge, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6552024, 40.5818948]
+    },
+    "properties": {
+        "name": "Snowbird, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.3080244, 45.2617806]
+    },
+    "properties": {
+        "name": "Big Sky, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-120.138889, 39.172222]
+    },
+    "properties": {
+        "name": "Tahoe City, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.948056, 39.604167]
+    },
+    "properties": {
+        "name": "Keystone, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0368707, 38.9071923]
+    },
+    "properties": {
+        "name": "Washington, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.948056, 39.604167]
+    },
+    "properties": {
+        "name": "Keystone, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2577263, 51.7520209]
+    },
+    "properties": {
+        "name": "Oxford, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2577263, 51.7520209]
+    },
+    "properties": {
+        "name": "Oxford, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-8.6291053, 41.1579438]
+    },
+    "properties": {
+        "name": "Porto, Portugal"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2577263, 51.7520209]
+    },
+    "properties": {
+        "name": "Oxford, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [121.473701, 31.230416]
+    },
+    "properties": {
+        "name": "Shanghai, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.4194155, 37.7749295]
+    },
+    "properties": {
+        "name": "San Francisco, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.741517, 45.227947]
+    },
+    "properties": {
+        "name": "Aussois, France"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.7769505, 51.58307]
+    },
+    "properties": {
+        "name": "Breda, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [11.007798, 46.9654469]
+    },
+    "properties": {
+        "name": "Soelden, Austria"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9207392, 35.9606384]
+    },
+    "properties": {
+        "name": "Knoxville, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [10.40237, 55.403756]
+    },
+    "properties": {
+        "name": "Odense, Denmark"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [121.473701, 31.230416]
+    },
+    "properties": {
+        "name": "Shanghai, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [21.0122287, 52.2296756]
+    },
+    "properties": {
+        "name": "Warsaw, Poland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6552024, 40.5818948]
+    },
+    "properties": {
+        "name": "Snowbird, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6552024, 40.5818948]
+    },
+    "properties": {
+        "name": "Snowbird, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [11.5819806, 48.1351253]
+    },
+    "properties": {
+        "name": "Munich, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1393366, 38.7222524]
+    },
+    "properties": {
+        "name": "Lisbon, Portugal"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1393366, 38.7222524]
+    },
+    "properties": {
+        "name": "Lisbon, Portugal"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [34.7817676, 32.0852999]
+    },
+    "properties": {
+        "name": "Tel Aviv, Israel"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [34.7817676, 32.0852999]
+    },
+    "properties": {
+        "name": "Tel Aviv, Israel"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.163789, 39.952335]
+    },
+    "properties": {
+        "name": "Philadelphia, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1393366, 38.7222524]
+    },
+    "properties": {
+        "name": "Lisbon, Portugal"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1393366, 38.7222524]
+    },
+    "properties": {
+        "name": "Lisbon, Portugal"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-9.1393366, 38.7222524]
+    },
+    "properties": {
+        "name": "Lisbon, Portugal"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.7769505, 51.58307]
+    },
+    "properties": {
+        "name": "Breda, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.8191608, 52.0075286]
+    },
+    "properties": {
+        "name": "Papendal/Arnhem, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9207392, 35.9606384]
+    },
+    "properties": {
+        "name": "Knoxville, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.835659, 45.764043]
+    },
+    "properties": {
+        "name": "Lyon, France"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [13.404954, 52.5200066]
+    },
+    "properties": {
+        "name": "Berlin, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [115.8574693, -31.9530044]
+    },
+    "properties": {
+        "name": "Perth, Australia"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2577263, 51.7520209]
+    },
+    "properties": {
+        "name": "Oxford, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.297355, 52.6308859]
+    },
+    "properties": {
+        "name": "Norwich, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [19.040235, 47.497912]
+    },
+    "properties": {
+        "name": "Budapest, Hungary"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [121.473701, 31.230416]
+    },
+    "properties": {
+        "name": "Shanghai, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.163789, 39.952335]
+    },
+    "properties": {
+        "name": "Philadelphia, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-99.133208, 19.4326077]
+    },
+    "properties": {
+        "name": "Mexico City, Mexico"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [76.7794179, 30.7333148]
+    },
+    "properties": {
+        "name": "Chandigarh, India"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [127.6809317, 26.2124013]
+    },
+    "properties": {
+        "name": "Okinawa, Japan"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6552024, 40.5818948]
+    },
+    "properties": {
+        "name": "Snowbird, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.9944582, 50.767598]
+    },
+    "properties": {
+        "name": "Kasteel Vaalsbroek, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-120.2354465, 39.1962993]
+    },
+    "properties": {
+        "name": "Olympic Valley, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.5683371, 55.6760968]
+    },
+    "properties": {
+        "name": "Copenhagen, Denmark"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [12.5683371, 55.6760968]
+    },
+    "properties": {
+        "name": "Copenhagen, Denmark"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-120.2354465, 39.1962993]
+    },
+    "properties": {
+        "name": "Olympic Valley, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.291266, 52.132633]
+    },
+    "properties": {
+        "name": "Kasteel Vaalsbroek, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.297355, 52.6308859]
+    },
+    "properties": {
+        "name": "Norwich, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0588801, 42.3600825]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.121817, 52.205337]
+    },
+    "properties": {
+        "name": "Cambridge, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
+    },
+    "properties": {
+        "name": "San Diego, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [51.533333, 25.286667]
+    },
+    "properties": {
+        "name": "Doha, Qatar"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [51.533333, 25.286667]
+    },
+    "properties": {
+        "name": "Doha, Qatar"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5539925, 45.5086699]
+    },
+    "properties": {
+        "name": "Montreal, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5539925, 45.5086699]
+    },
+    "properties": {
+        "name": "Montreal, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.4906855, 38.3459963]
+    },
+    "properties": {
+        "name": "Alicante, Spain"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [55.1817407, 25.0476643]
+    },
+    "properties": {
+        "name": "Dubai, United Arab Emirates"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [126.9779692, 37.566535]
+    },
+    "properties": {
+        "name": "Seoul, South Korea"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.0685808, 59.3293235]
+    },
+    "properties": {
+        "name": "Stockholm, Sweden"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [118.796877, 32.060255]
+    },
+    "properties": {
+        "name": "Nangjing, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.4777325, 51.9244201]
+    },
+    "properties": {
+        "name": "Rotterdam, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [34.811272, 31.892773]
+    },
+    "properties": {
+        "name": "Rehovot, Israel"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [15.2313648, 44.119371]
+    },
+    "properties": {
+        "name": "Zadar, Croatia"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-74.3223703, 40.5753817]
+    },
+    "properties": {
+        "name": "Iselin, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.297355, 52.6308859]
+    },
+    "properties": {
+        "name": "Norwich, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2603097, 53.3498053]
+    },
+    "properties": {
+        "name": "Dublin, Ireland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [100.5241235, 13.7278956]
+    },
+    "properties": {
+        "name": "Bangkok, Thailand"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585316, 31.298886]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [121.4913182, 25.0435466]
+    },
+    "properties": {
+        "name": "Taipei, Taiwan"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.163789, 39.952335]
+    },
+    "properties": {
+        "name": "Philadelphia, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [23.7293599, 37.983917]
+    },
+    "properties": {
+        "name": "Athens, Greece"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [23.7293599, 37.983917]
+    },
+    "properties": {
+        "name": "Athens, Greece"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [23.7293599, 37.983917]
+    },
+    "properties": {
+        "name": "Athens, Greece"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.163789, 39.952335]
+    },
+    "properties": {
+        "name": "Philadelphia, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0597732, 42.3584308]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0588801, 42.3600825]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [135.7680294, 35.0116363]
+    },
+    "properties": {
+        "name": "Kyoto, Japan"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0588801, 42.3600825]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-91.9623327, 30.9842977]
+    },
+    "properties": {
+        "name": "LA, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.031659, 41.7850237]
+    },
+    "properties": {
+        "name": "Sant Feliu de Guixols, Spain"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [139.8267307, 38.7271972]
+    },
+    "properties": {
+        "name": "Tsuruoka, Japan"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [139.8267307, 38.7271972]
+    },
+    "properties": {
+        "name": "Tsuruoka, Japan"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-105.5730665, 36.4072485]
+    },
+    "properties": {
+        "name": "Taos, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+    },
+    "properties": {
+        "name": "London, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-6.2603097, 53.3498053]
+    },
+    "properties": {
+        "name": "Dublin, Ireland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.121817, 52.205337]
+    },
+    "properties": {
+        "name": "Cambrige, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [34.824785, 32.068424]
+    },
+    "properties": {
+        "name": "Ramat-Gan, Israel"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [34.824785, 32.068424]
+    },
+    "properties": {
+        "name": "Ramat-Gan, Israel"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.805886, 41.2371851]
+    },
+    "properties": {
+        "name": "Sitges, Spain"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.6173006, 52.0882573]
+    },
+    "properties": {
+        "name": "Lunteren, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [123.432253, 41.805865]
+    },
+    "properties": {
+        "name": "Shenyang, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9207392, 35.9606384]
+    },
+    "properties": {
+        "name": "Knoxville, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [35.21371, 31.768319]
+    },
+    "properties": {
+        "name": "Jerusalem, Israel"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.7773558, 46.15732]
+    },
+    "properties": {
+        "name": "Ascona, Switzerland"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8660914, 43.2500208]
+    },
+    "properties": {
+        "name": "Hamilton, Canada"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9207392, 35.9606384]
+    },
+    "properties": {
+        "name": "Knoxville, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.060097, 42.3584865]
+    },
+    "properties": {
+        "name": "Boston, United States"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738189, 48.2081743]
+    },
+    "properties": {
+        "name": "Vienna, Austria"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.18269, 52.082869]
+    },
+    "properties": {
+        "name": "Hinxton, United Kingdom"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.6909725, 50.8513682]
+    },
+    "properties": {
+        "name": "Maastricht, Netherlands"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.57918, 44.837789]
+    },
+    "properties": {
+        "name": "Bordeaux, France"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [120.585297, 31.298974]
+    },
+    "properties": {
+        "name": "Suzhou, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [116.407395, 39.904211]
+    },
+    "properties": {
+        "name": "Beijing, China"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [18.643501, 60.128161]
+    },
+    "properties": {
+        "name": "NorrtÃ¤lje, Sweden"
+    }
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [8.6724335, 49.3987524]
+    },
+    "properties": {
+        "name": "Heidelberg, Germany"
+    }
+}]

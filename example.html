@@ -1,0 +1,10 @@
+<meta charset="utf-8">
+<script src="build/biojsvisglobemap.js"></script>
+
+<div id=yourDiv></div>
+<script>
+var yourDiv = document.getElementById("yourDiv");
+var biojsvisglobemap = require('biojs-vis-globemap');
+var result = biojsvisglobemap.hello('biojs');
+yourDiv.textContent = result;
+</script>
