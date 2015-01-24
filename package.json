@@ -1,7 +1,7 @@
 {
   "name": "biojs-vis-globemap",
   "description": "Visualize events around the World",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/Akshit-/biojs-vis-globemap",
   "contributors": [
     {
@@ -14,7 +14,26 @@
       "email": "vinodr.msec@gmail.com",
       "url": "https://de.linkedin.com/pub/vinod-rajendran/a6/536/506"
 
+    },
+    {
+      "name": "Tatyana Goldberg"
+    },
+    {
+      "name": "Juan Miguel Cejuela"
+    },
+    {
+      "name": "Sebastian Wilzbach"
+    },
+    {
+      "name": "David Dao"
+    },
+    {
+      "name": "Manuel Corpas"
+    },
+    {
+      "name": "Prof. Burkhard Rost"
     }
+    
   ],
   "repository": {
     "type": "git",

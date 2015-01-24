@@ -2,15 +2,6 @@
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [-118.2436849, 34.0522342]
-    },
-    "properties": {
-        "name": "Los Angeles, United States of America"
-    }
-}, {
-    "type": "Feature",
-    "geometry": {
-        "type": "Point",
         "coordinates": [5.117778, 52.091667]
     },
     "properties": {
