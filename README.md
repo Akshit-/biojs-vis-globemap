@@ -4,27 +4,39 @@
 
 > 
 
+## Description
+A Multidimensional Globe to display all the happening events in the world.
+
 ## Getting Started
 Install the module with: `npm install biojs-vis-globemap`
 
+How to have a Globe with markers showing your events?
+- In the simple.js replace with your json file.
 ```javascript
-var globemap = require('biojs-vis-globemap');
-globemap.hello("biojs"); // "hello biojs"
+var app = require("biojs-vis-globemap");
+var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json', markerJSON: "../data/markerEvents.json"});
+```
+- Customize the globe width, height,..etc by changing the values.
+```javascript
+var opts =  {
+
+  mapWidth: 960,
+mapHeight: 600,
+focused: false,
+ortho: true, 
+sens: 0.25,
+radius: 2,  // px
+hoverRadius: 20 // px
+};
+
 ```
 
-How to have a new Globe with different .json file?
--	In the metaGlobemap.js , replace the events.json with your own json file.
-
-d3.json("events.json", function(error, root)
-	
-
-
 With all the parameters, you have to change them accordingly. Here are the descriptions:
--	"json" : the .json which contains list of all countries, by default all countries are included.
--	" mapWidth" : the top position of the visualization component.
--	" mapHeight" : the right position of the visualization component.
--	".text" : the function to display the text in each arc, additional parameter can be added like size.
--	".duration" : the function to adjust the transition time which is represented in milliseconds.
+-	**"json"** : the **.json** which contains list of all countries, by default all countries are included.
+-	**" mapWidth"** : the top position of the visualization component.
+-	**" mapHeight"** : the right position of the visualization component.
+-	**".text"** : the function to display the text in each arc, additional parameter can be added like size.
+-	**".duration"** : the function to adjust the transition time which is represented in milliseconds.
 
 #### Features
 -	Ortho(3D) and Equirectangular(2D) views are available.
@@ -38,31 +50,13 @@ All contributions are welcome.
 
 ## Support
 
-How to have a new Globe with different .json file?
-•	In the metaGlobemap.js , replace the events.json with your own json file.
-
-d3.json("events.json", function(error, root)
-•	
-
-
-With all the parameters, you have to change them accordingly. Here are the descriptions:
-•	"json" : the .json which contains list of all countries, by default all countries are included.
-•	" mapWidth" : the top position of the visualization component.
-•	" mapHeight" : the right position of the visualization component.
-•	".text" : the function to display the text in each arc, additional parameter can be added like size.
-•	".duration" : the function to adjust the transition time which is represented in milliseconds.
-Features
-•	Ortho(3D) and Equirectangular(2D) views are available.
-•	Rotatable
-•	Automatic ZoomIN of selected countries.
-•	Markers
  you have any problem or suggestion please open an issue [here](https://github.com/Akshit-/biojs-vis-globemap/issues).
 
 ## License 
 
 The MIT License
 
-Copyright (c) 2015, akshit
+Copyright (c) 2015, akshit, vinod
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
