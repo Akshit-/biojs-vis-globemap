@@ -54,7 +54,7 @@ hoverRadius: 20 // px
 ```
 
 With all the parameters, you have to change them accordingly. Here are the descriptions:
--	**"json"** : the **.json** which contains list of all countries, by default all countries are included.
+-	**"json"** : the **.json** which contains list of all countries which is going to host the events.
 -	**" mapWidth"** : the top position of the visualization component.
 -	**" mapHeight"** : the right position of the visualization component.
 -	**"focused"** : to have a general 3D globe view without being focussed on a particuar country.
