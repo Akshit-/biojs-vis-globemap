@@ -9,6 +9,10 @@ A Multidimensional Globe to display all the happening events in the world.
 
 ## Getting Started
 Install the module with: `npm install biojs-vis-globemap`
+```javascript
+var biojs-vis-globemap = require('biojs-vis-globemap');
+bilevel.hello("biojs"); // "hello biojs"
+```
 
 How to have a Globe with markers showing your events?
 - In the simple.js replace with your json file.
