@@ -13,24 +13,24 @@ globemap.hello("biojs"); // "hello biojs"
 ```
 
 How to have a new Globe with different .json file?
-•	In the metaGlobemap.js , replace the events.json with your own json file.
+-	In the metaGlobemap.js , replace the events.json with your own json file.
 
 d3.json("events.json", function(error, root)
-•	
+	
 
 
 With all the parameters, you have to change them accordingly. Here are the descriptions:
-•	"json" : the .json which contains list of all countries, by default all countries are included.
-•	" mapWidth" : the top position of the visualization component.
-•	" mapHeight" : the right position of the visualization component.
-•	".text" : the function to display the text in each arc, additional parameter can be added like size.
-•	".duration" : the function to adjust the transition time which is represented in milliseconds.
+-	"json" : the .json which contains list of all countries, by default all countries are included.
+-	" mapWidth" : the top position of the visualization component.
+-	" mapHeight" : the right position of the visualization component.
+-	".text" : the function to display the text in each arc, additional parameter can be added like size.
+-	".duration" : the function to adjust the transition time which is represented in milliseconds.
 
 #### Features
-•	Ortho(3D) and Equirectangular(2D) views are available.
-•	Rotatable
-•	Automatic ZoomIN of selected countries.
-•	Markers
+-	Ortho(3D) and Equirectangular(2D) views are available.
+-	Rotatable
+-	Automatic ZoomIN of selected countries.
+-	Markers
 
 ## Contributing
 
