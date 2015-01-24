@@ -13,7 +13,7 @@ Install the module with: `npm install biojs-vis-globemap`
 var biojs-vis-globemap = require('biojs-vis-globemap');
 bilevel.hello("biojs"); // "hello biojs"
 ```
-
+## Documentation
 How to have a Globe with markers showing your events?
 - In the simple.js replace with your json file.
 ```javascript
