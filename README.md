@@ -16,6 +16,28 @@ How to have a Globe with markers showing your events?
 var app = require("biojs-vis-globemap");
 var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json', markerJSON: "../data/markerEvents.json"});
 ```
+- JSON file should be in a structure/format as shown below
+```javascript
+[{
+    "type": "Feature",
+    "geometry": {
+        "type": "",
+        "coordinates": []
+    },
+    "properties": {
+        "name": ""
+    }
+},{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.117778, 52.091667]
+    },
+    "properties": {
+        "name": "Utrecht, Netherlands"
+    }
+}]
+```
 - Customize the globe like width, height,..etc by changing the values.
 ```javascript
 var opts =  {
