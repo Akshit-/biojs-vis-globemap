@@ -24,6 +24,8 @@ The 'hello' method is responsible for showing a name.
 
 How to use this method
 
+replace the json
+
 ```javascript
 globemap.hello('biojs'); // "hello biojs"
 ```
