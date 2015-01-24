@@ -13,7 +13,7 @@ globemap.hello("biojs"); // "hello biojs"
 ```
 
 ## Documentation
-
+Akshit
 #### .hello(name)
 
 **Parameter**: `name`
