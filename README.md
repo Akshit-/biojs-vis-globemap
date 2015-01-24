@@ -16,7 +16,7 @@ How to have a Globe with markers showing your events?
 var app = require("biojs-vis-globemap");
 var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json', markerJSON: "../data/markerEvents.json"});
 ```
-- Customize the globe width, height,..etc by changing the values.
+- Customize the globe like width, height,..etc by changing the values.
 ```javascript
 var opts =  {
 
@@ -35,8 +35,11 @@ With all the parameters, you have to change them accordingly. Here are the descr
 -	**"json"** : the **.json** which contains list of all countries, by default all countries are included.
 -	**" mapWidth"** : the top position of the visualization component.
 -	**" mapHeight"** : the right position of the visualization component.
--	**".text"** : the function to display the text in each arc, additional parameter can be added like size.
--	**".duration"** : the function to adjust the transition time which is represented in milliseconds.
+-	**"focused"** : to have a general 3D globe view without being focussed on a particuar country.
+-	**"ortho"** : the default view, if false then 2D view is displayed.
+-	**"sens"** : the degree of sensitivity for mouse events with related to map.
+-	**"radius"** : to increase the size of globe.
+-	**"hoverRadius"** : the area for displaying the country/city names during the mouseover events.
 
 #### Features
 -	Ortho(3D) and Equirectangular(2D) views are available.
