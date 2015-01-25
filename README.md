@@ -56,14 +56,14 @@ var opts =  {
 
 ```
 With all the parameters, you have to change them accordingly. Here are the descriptions:
--**"json"** : the **.json** which contains list of all countries which is going to host the events.
--**" mapWidth"** : the top position of the visualization component.
--**" mapHeight"** : the right position of the visualization component.
--**"focused"** : to have a general 3D globe view without being focussed on a particuar country.
--**"ortho"** : the default view, if false then 2D view is displayed.
--**"sens"** : the degree of sensitivity for mouse events with related to map.
--**"radius"** : to increase the size of globe.
--**"hoverRadius"** : the area for displaying the country/city names during the mouseover events.
+- **"json"** : the **.json** which contains list of all countries which is going to host the events.
+- **" mapWidth"** : the top position of the visualization component.
+- **" mapHeight"** : the right position of the visualization component.
+- **"focused"** : to have a general 3D globe view without being focussed on a particuar country.
+- **"ortho"** : the default view, if false then 2D view is displayed.
+- **"sens"** : the degree of sensitivity for mouse events with related to map.
+- **"radius"** : to increase the size of globe.
+- **"hoverRadius"** : the area for displaying the country/city names during the mouseover events.
 
 #### Features
 -	Ortho(3D) and Equirectangular(2D) views are available.
