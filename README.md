@@ -57,6 +57,7 @@ var opts =  {
 ```
 
 With all the parameters, you have to change them accordingly. Here are the descriptions:
+
 -	**"json"** : the **.json** which contains list of all countries which is going to host the events.
 -	**" mapWidth"** : the top position of the visualization component.
 -	**" mapHeight"** : the right position of the visualization component.
