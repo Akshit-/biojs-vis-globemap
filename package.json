@@ -44,7 +44,7 @@
   },
   "licenses": [
     {
-      "type": "MIT",
+      "type": "Apache 2",
       "url": "https://github.com/Akshit-/biojs-vis-globemap/blob/master/LICENSE"
     }
   ],
