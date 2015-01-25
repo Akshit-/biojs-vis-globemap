@@ -43,6 +43,7 @@ var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json
 }]
 ```
 - Customize the globe like width, height,..etc by changing the values.
+
 ```javascript
 var opts =  {
     mapWidth: 960,
@@ -53,7 +54,6 @@ var opts =  {
     radius: 2,  // px
     hoverRadius: 20 // px
 };
-
 ```
 
 With all the parameters, you have to change them accordingly. Here are the descriptions:
