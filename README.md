@@ -55,6 +55,7 @@ var opts =  {
 };
 
 ```
+
 With all the parameters, you have to change them accordingly. Here are the descriptions:
 - **"json"** : the **.json** which contains list of all countries which is going to host the events.
 - **" mapWidth"** : the top position of the visualization component.
@@ -66,10 +67,10 @@ With all the parameters, you have to change them accordingly. Here are the descr
 - **"hoverRadius"** : the area for displaying the country/city names during the mouseover events.
 
 #### Features
--	Ortho(3D) and Equirectangular(2D) views are available.
--	Rotatable
--	Automatic ZoomIN of selected countries.
--	Markers
+- Ortho(3D) and Equirectangular(2D) views are available.
+- Rotatable
+- Automatic ZoomIN of selected countries.
+- Markers
 
 ## Contributing
 
