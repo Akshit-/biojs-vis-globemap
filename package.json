@@ -1,16 +1,16 @@
 {
   "name": "biojs-vis-globemap",
   "description": "Visualize events around the World",
-  "version": "0.1.8",
+  "version": "1.0.3",
   "homepage": "https://github.com/Akshit-/biojs-vis-globemap",
   "contributors": [
     {
-      "name": "Akshit",
+      "name": "Akshit Malhotra",
       "email": "aks.m.18@gmail.com",
       "url": "https://de.linkedin.com/pub/akshit-malhotra/69/625/39b"
     },
     {
-      "name": "Vinod",
+      "name": "Vinod Rajendran",
       "email": "vinodr.msec@gmail.com",
       "url": "https://de.linkedin.com/pub/vinod-rajendran/a6/536/506"
 
