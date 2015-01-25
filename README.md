@@ -25,11 +25,11 @@ var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json
 [{
     "type": "Feature",
     "geometry": {
-        "type": "",
-        "coordinates": []
+        "type": "Point",
+        "coordinates": [-117.1610838, 32.715738]
     },
     "properties": {
-        "name": ""
+        "name": "San Diego, United States of America"
     }
 },{
     "type": "Feature",
@@ -45,14 +45,13 @@ var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json
 - Customize the globe like width, height,..etc by changing the values.
 ```javascript
 var opts =  {
-
-  mapWidth: 960,
-mapHeight: 600,
-focused: false,
-ortho: true, 
-sens: 0.25,
-radius: 2,  // px
-hoverRadius: 20 // px
+    mapWidth: 960,
+    mapHeight: 600,
+    focused: false,
+    ortho: true, 
+    sens: 0.25,
+    radius: 2,  // px
+    hoverRadius: 20 // px
 };
 
 ```
