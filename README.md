@@ -4,31 +4,74 @@
 
 > 
 
+## Description
+A Multidimensional Globe to display all the happening events in the world.
+
 ## Getting Started
 Install the module with: `npm install biojs-vis-globemap`
-
 ```javascript
-var globemap = require('biojs-vis-globemap');
-globemap.hello("biojs"); // "hello biojs"
+var biojs-vis-globemap = require('biojs-vis-globemap');
+bilevel.hello("biojs"); // "hello biojs"
 ```
-
 ## Documentation
-Akshit
-#### .hello(name)
-
-**Parameter**: `name`
-**Type**: `String`
-**Example**: `biojs`
-
-The 'hello' method is responsible for showing a name.
-
-How to use this method
-
-replace the json
-
+How to have a Globe with markers showing your events?
+- In the simple.js replace with your json file.
 ```javascript
-globemap.hello('biojs'); // "hello biojs"
+var app = require("biojs-vis-globemap");
+var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json', markerJSON: "../data/markerEvents.json"});
 ```
+- JSON file should be in a structure/format as shown below
+```javascript
+[{
+    "type": "Feature",
+    "geometry": {
+        "type": "",
+        "coordinates": []
+    },
+    "properties": {
+        "name": ""
+    }
+},{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.117778, 52.091667]
+    },
+    "properties": {
+        "name": "Utrecht, Netherlands"
+    }
+}]
+```
+- Customize the globe like width, height,..etc by changing the values.
+```javascript
+var opts =  {
+
+  mapWidth: 960,
+mapHeight: 600,
+focused: false,
+ortho: true, 
+sens: 0.25,
+radius: 2,  // px
+hoverRadius: 20 // px
+};
+
+```
+
+With all the parameters, you have to change them accordingly. Here are the descriptions:
+-	**"json"** : the **.json** which contains list of all countries which is going to host the events.
+-	**" mapWidth"** : the top position of the visualization component.
+-	**" mapHeight"** : the right position of the visualization component.
+-	**"focused"** : to have a general 3D globe view without being focussed on a particuar country.
+-	**"ortho"** : the default view, if false then 2D view is displayed.
+-	**"sens"** : the degree of sensitivity for mouse events with related to map.
+-	**"radius"** : to increase the size of globe.
+-	**"hoverRadius"** : the area for displaying the country/city names during the mouseover events.
+
+#### Features
+-	Ortho(3D) and Equirectangular(2D) views are available.
+-	Rotatable
+-	Automatic ZoomIN of selected countries.
+-	Markers
 
 ## Contributing
 
@@ -36,13 +79,13 @@ All contributions are welcome.
 
 ## Support
 
-If you have any problem or suggestion please open an issue [here](https://github.com/Akshit-/biojs-vis-globemap/issues).
+ you have any problem or suggestion please open an issue [here](https://github.com/Akshit-/biojs-vis-globemap/issues).
 
 ## License 
 
 The MIT License
 
-Copyright (c) 2015, akshit
+Copyright (c) 2015, akshit, vinod
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
