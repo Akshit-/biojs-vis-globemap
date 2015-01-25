@@ -26,10 +26,10 @@ var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [-117.1610838, 32.715738]
+        "coordinates": [76.7794179, 30.7333148]
     },
     "properties": {
-        "name": "San Diego, United States of America"
+        "name": "Chandigarh, India"
     }
 },{
     "type": "Feature",
