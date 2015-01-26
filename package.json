@@ -1,7 +1,7 @@
 {
   "name": "biojs-vis-globemap",
   "description": "Visualize events around the World",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "homepage": "https://github.com/Akshit-/biojs-vis-globemap",
   "contributors": [
     {
@@ -16,7 +16,8 @@
 
     },
     {
-      "name": "Tatyana Goldberg"
+      "name": "Tatyana Goldberg",
+      "url": "http://rostlab.org/~goldberg/"
     },
     {
       "name": "Juan Miguel Cejuela"
