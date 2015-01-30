@@ -1,7 +1,7 @@
 # biojs-vis-globemap
 
 [![NPM version](http://img.shields.io/npm/v/biojs-vis-globemap.svg)](https://www.npmjs.org/package/biojs-vis-globemap) 
-> A Multidimensional Globe to display events happening around the world.
+> A Multidimensional Globe to visualize events happening around the world.
 
 ## Getting Started
 Install the module with: `npm install biojs-vis-globemap`
