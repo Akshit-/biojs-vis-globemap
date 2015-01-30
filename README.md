@@ -1,26 +1,21 @@
 # biojs-vis-globemap
 
 [![NPM version](http://img.shields.io/npm/v/biojs-vis-globemap.svg)](https://www.npmjs.org/package/biojs-vis-globemap) 
-
-> 
-
-## Description
-A Multidimensional Globe to display all the happening events in the world.
+> A Multidimensional Globe to display all the happening events in the world.
 
 ## Getting Started
 Install the module with: `npm install biojs-vis-globemap`
-```javascript
-var biojs-vis-globemap = require('biojs-vis-globemap');
-bilevel.hello("biojs"); // "hello biojs"
-```
+
 ## Documentation
 How to have a Globe with markers showing your events?
+
 - In the simple.js replace with your json file.
 ```javascript
 var app = require("biojs-vis-globemap");
 var instance = new app({el: yourDiv, worldMapJSON: '../data/world-countries.json', markerJSON: "../data/markerEvents.json"});
 ```
-- JSON file should be in a structure/format as shown below
+
+- the `markerJSON` file should be in a structure/format as shown below
 ```javascript
 [{
     "type": "Feature",
@@ -78,7 +73,7 @@ All contributions are welcome.
 
 ## Support
 
- you have any problem or suggestion please open an issue [here](https://github.com/Akshit-/biojs-vis-globemap/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/Akshit-/biojs-vis-globemap/issues).
 
 ## License 
 
