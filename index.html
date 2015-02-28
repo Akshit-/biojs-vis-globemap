@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Biojs-vis-globemap by Akshit-</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Biojs-vis-globemap</h1>
+        <p>Multidimensional Globe to visualize events happening around the world.</p>
+
+        <p class="view"><a href="https://github.com/Akshit-/biojs-vis-globemap">View the Project on GitHub <small>Akshit-/biojs-vis-globemap</small></a></p>
+
+
+        <ul>
+          <li><a href="https://github.com/Akshit-/biojs-vis-globemap/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/Akshit-/biojs-vis-globemap/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/Akshit-/biojs-vis-globemap">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+        <h1>
+<a id="biojs-vis-globemap" class="anchor" href="#biojs-vis-globemap" aria-hidden="true"><span class="octicon octicon-link"></span></a>biojs-vis-globemap</h1>
+
+<p><a href="https://www.npmjs.org/package/biojs-vis-globemap"><img src="http://img.shields.io/npm/v/biojs-vis-globemap.svg" alt="NPM version"></a> </p>
+
+<blockquote>
+<p>A Multidimensional Globe to visualize events happening around the world.</p>
+</blockquote>
+
+<h2>
+<a id="getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting Started</h2>
+
+<p>Install the module with: <code>npm install biojs-vis-globemap</code></p>
+
+<h2>
+<a id="documentation" class="anchor" href="#documentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Documentation</h2>
+
+<p>How to have a Globe with markers showing your events?</p>
+
+<ul>
+<li>In the simple.js replace with your json file.</li>
+</ul>
+
+<div class="highlight highlight-javascript"><pre><span class="pl-s">var</span> app <span class="pl-k">=</span> <span class="pl-s3">require</span>(<span class="pl-s1"><span class="pl-pds">"</span>biojs-vis-globemap<span class="pl-pds">"</span></span>);
+<span class="pl-s">var</span> instance <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">app</span>({el<span class="pl-k">:</span> yourDiv, worldMapJSON<span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">'</span>../data/world-countries.json<span class="pl-pds">'</span></span>, markerJSON<span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">"</span>../data/markerEvents.json<span class="pl-pds">"</span></span>});</pre></div>
+
+<ul>
+<li>the <code>markerJSON</code> file should be in a structure/format as shown below</li>
+</ul>
+
+<div class="highlight highlight-javascript"><pre>[{
+    <span class="pl-s1"><span class="pl-pds">"</span>type<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">"</span>Feature<span class="pl-pds">"</span></span>,
+    <span class="pl-s1"><span class="pl-pds">"</span>geometry<span class="pl-pds">"</span></span><span class="pl-k">:</span> {
+        <span class="pl-s1"><span class="pl-pds">"</span>type<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">"</span>Point<span class="pl-pds">"</span></span>,
+        <span class="pl-s1"><span class="pl-pds">"</span>coordinates<span class="pl-pds">"</span></span><span class="pl-k">:</span> [<span class="pl-c1">76.7794179</span>, <span class="pl-c1">30.7333148</span>]
+    },
+    <span class="pl-s1"><span class="pl-pds">"</span>properties<span class="pl-pds">"</span></span><span class="pl-k">:</span> {
+        <span class="pl-s1"><span class="pl-pds">"</span>name<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">"</span>Chandigarh, India<span class="pl-pds">"</span></span>
+    }
+},{
+    <span class="pl-s1"><span class="pl-pds">"</span>type<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">"</span>Feature<span class="pl-pds">"</span></span>,
+    <span class="pl-s1"><span class="pl-pds">"</span>geometry<span class="pl-pds">"</span></span><span class="pl-k">:</span> {
+        <span class="pl-s1"><span class="pl-pds">"</span>type<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">"</span>Point<span class="pl-pds">"</span></span>,
+        <span class="pl-s1"><span class="pl-pds">"</span>coordinates<span class="pl-pds">"</span></span><span class="pl-k">:</span> [<span class="pl-c1">5.117778</span>, <span class="pl-c1">52.091667</span>]
+    },
+    <span class="pl-s1"><span class="pl-pds">"</span>properties<span class="pl-pds">"</span></span><span class="pl-k">:</span> {
+        <span class="pl-s1"><span class="pl-pds">"</span>name<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s1"><span class="pl-pds">"</span>Utrecht, Netherlands<span class="pl-pds">"</span></span>
+    }
+}]</pre></div>
+
+<ul>
+<li>Customize the globe like width, height,..etc by changing the values.</li>
+</ul>
+
+<div class="highlight highlight-javascript"><pre><span class="pl-s">var</span> opts <span class="pl-k">=</span>  {
+    mapWidth<span class="pl-k">:</span> <span class="pl-c1">960</span>,
+    mapHeight<span class="pl-k">:</span> <span class="pl-c1">600</span>,
+    focused<span class="pl-k">:</span> <span class="pl-c1">false</span>,
+    ortho<span class="pl-k">:</span> <span class="pl-c1">true</span>, 
+    sens<span class="pl-k">:</span> <span class="pl-c1">0.25</span>,
+    radius<span class="pl-k">:</span> <span class="pl-c1">2</span>,  <span class="pl-c">// px</span>
+    hoverRadius<span class="pl-k">:</span> <span class="pl-c1">20</span> <span class="pl-c">// px</span>
+};</pre></div>
+
+<p>With all the parameters, you have to change them accordingly. Here are the descriptions:</p>
+
+<ul>
+<li>
+<strong>"json"</strong> : the <strong>.json</strong> which contains list of all countries which is going to host the events.</li>
+<li>
+<strong>" mapWidth"</strong> : the top position of the visualization component.</li>
+<li>
+<strong>" mapHeight"</strong> : the right position of the visualization component.</li>
+<li>
+<strong>"focused"</strong> : to have a general 3D globe view without being focussed on a particuar country.</li>
+<li>
+<strong>"ortho"</strong> : the default view, if false then 2D view is displayed.</li>
+<li>
+<strong>"sens"</strong> : the degree of sensitivity for mouse events with related to map.</li>
+<li>
+<strong>"radius"</strong> : to increase the size of globe.</li>
+<li>
+<strong>"hoverRadius"</strong> : the area for displaying the country/city names during the mouseover events.</li>
+</ul>
+
+<h4>
+<a id="features" class="anchor" href="#features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features</h4>
+
+<ul>
+<li>Ortho(3D) and Equirectangular(2D) views are available.</li>
+<li>Rotatable</li>
+<li>Automatic ZoomIN of selected countries.</li>
+<li>Markers</li>
+</ul>
+
+<h2>
+<a id="contributing" class="anchor" href="#contributing" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contributing</h2>
+
+<p>All contributions are welcome.</p>
+
+<h2>
+<a id="support" class="anchor" href="#support" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support</h2>
+
+<p>If you have any problem or suggestion please open an issue <a href="https://github.com/Akshit-/biojs-vis-globemap/issues">here</a>.</p>
+
+<h2>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
+
+<p>This software is licensed under the Apache 2 license, quoted below.</p>
+
+<p>Copyright (c) 2015, Akshit, Vinod</p>
+
+<p>Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at</p>
+
+<p><a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a>
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</p>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/Akshit-">Akshit-</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
